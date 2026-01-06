@@ -1,0 +1,6 @@
+Python
+Sql
+Power BI
+Big Data
+Statitics
+Git
